@@ -7,6 +7,21 @@
 ## 🚀 Project Overview
 MarketVision ML is an advanced Time-Series forecasting dashboard. It fetches live market data directly from Yahoo Finance and utilizes a Deep Learning Long Short-Term Memory (LSTM) Neural Network to predict future stock price movements.
 
+## Live App Link:
+
+https://marketvision-stock-predictor.streamlit.app/
+
+## Screenshots
+
+## Main Dashboard
+<img width="1919" height="923" alt="Screenshot 2026-03-24 114348" src="https://github.com/user-attachments/assets/d7af271d-a470-4b7e-9ba8-2d3a8625c043" />
+
+## Tesla Prediction
+<img width="1912" height="913" alt="Screenshot 2026-03-24 113649" src="https://github.com/user-attachments/assets/a5e8e0ef-2878-4012-8f43-33997ee1f3b7" />
+
+## Apple Prediction
+<img width="1912" height="913" alt="Screenshot 2026-03-24 113525" src="https://github.com/user-attachments/assets/188888d3-b432-45da-a8d1-6a506279e255" />
+
 *Developed as part of the AI & ML Internship at Elevate Labs.*
 
 ## 🧠 System Architecture & Methodology
