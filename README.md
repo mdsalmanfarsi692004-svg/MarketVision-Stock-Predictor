@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 **Md Salman Farsi**
-* **Role:** AI & ML Intern @ Elevate Labs | B.Tech CS (AI & ML)
+* **Role:** AI & ML Intern @ Elevate Labs | B.Tech CSE (AI & ML)
 * **Portfolio:** [mdsalmanfarsi.io](https://mdsalmanfarsi692004-svg.github.io/portfolio/)
 * **Email:** [mdsalmanfarsi692004@gmail.com](mailto:mdsalmanfarsi692004@gmail.com)
 * **GitHub:** [https://github.com/mdsalmanfarsi692004-svg]
