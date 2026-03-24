@@ -36,9 +36,13 @@ https://marketvision-stock-predictor.streamlit.app/
 * **Interactive Technical Charting:** Features responsive candlestick charts using Plotly.
 
 ## ⚙️ Installation & Usage
+
 git clone https://github.com/your-username/MarketVision-Stock-Predictor.git
+
 cd MarketVision-Stock-Predictor
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 👨‍💻 Author
